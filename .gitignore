@@ -1,0 +1,8 @@
+*.json
+*.DS_Store
+*__pycache__/
+wandb/*
+*logs*
+llama3_8b_*
+*.csv
+*.png
